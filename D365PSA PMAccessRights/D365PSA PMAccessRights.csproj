@@ -67,6 +67,7 @@
   <ItemGroup>
     <None Include="D365PSA PM AccessRights.snk" />
     <None Include="packages.config" />
+    <None Include="Unmanaged Solution\D365PSAPMAccessRights_1_0_0_0.zip" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
